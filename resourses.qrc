@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tictactoe/fonts/Roboto-Medium.ttf</file>
+        <file>tictactoe/images/free-icon-tic-tac-toe-868728.png</file>
+        <file>tictactoe/images/dark_blue_texture.png</file>
+        <file>tictactoe/images/imgonline-com-ua-Resize-v1ml0tJoawRibh.jpg</file>
+        <file>tictactoe/images/dark_calm_blue_texture.png</file>
+        <file>tictactoe/images/large_cross_try1.com.png</file>
+        <file>tictactoe/images/large_nought_try2.com.png</file>
+        <file>tictactoe/images/little_cross_try1.com.png</file>
+        <file>tictactoe/images/little_nought_try1.com.png</file>
+        <file>tictactoe/fonts/Arial_Black.ttf</file>
+        <file>tictactoe/images/imgonline-com-ua-Resize-LTkijoQbR4Y4027s.jpg</file>
+        <file>tictactoe/images/imgonline-com-ua-Resize-c4e3XhddBGpP.jpg</file>
+        <file>tictactoe/images/imgonline-com-ua-Resize-v8ffI2paiqs.jpg</file>
+    </qresource>
+</RCC>
